@@ -18,7 +18,7 @@
  
  - Video Editor
  
- Mengedit video menggunakan native device APIs. Untuk dokumentasi dapat diakses pada tautan [berikut](https://ionicframework.com/docs/native/video-editor)
+ Mengedit video menggunakan native device APIs. Untuk dokumentasi dapat diakses pada tautan [berikut](https://ionicframework.com/docs/native/video-editor).
  Untuk menginstall dapat menjalankan perintah berikut.
  
  `npm install @ionic-native/video-editor`
