@@ -2,7 +2,7 @@
  Aplikasi pemutar video menggunakan framework Ionic versi 4 <br>
  [*Demo Aplikasi*](https://drive.google.com/file/d/1OKsOJaM8KXCj-G-YpRtncgUagI4sRJBk/view?usp=sharing)
  <br>
- [Ebook Aplikasi] (https://drive.google.com/file/d/1vJi3PFZ-d-CUSdi7RPCUdXX4KmbZXJaA/view?usp=sharing)
+ [Ebook Aplikasi](https://drive.google.com/file/d/1vJi3PFZ-d-CUSdi7RPCUdXX4KmbZXJaA/view?usp=sharing)
  
  Dibuat oleh Kelompok 6
  - [Anugrah Iman Setyo Utomo](https://github.com/anugrahiman5)
