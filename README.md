@@ -55,7 +55,7 @@ Untuk menginstall dapat menjalankan perintah berikut.
 <img src = "https://user-images.githubusercontent.com/44064496/86608121-54820300-bfd4-11ea-9359-1680ebabe53e.png" width = "200" height = "400"/> <img src = "https://user-images.githubusercontent.com/44064496/86608453-cb1f0080-bfd4-11ea-84a1-f984d645312e.png" width = "200" height = "400"/>
 <br><br>
 
-<img src = "https://user-images.githubusercontent.com/44064496/86608597-f275cd80-bfd4-11ea-8292-cf695a42d04b.png" width = "200" height = "400"/><img src = "https://user-images.githubusercontent.com/44064496/86608835-41236780-bfd5-11ea-8b61-f7fd60e73dff.png" width = "200" height = "400"/>
+<img src = "https://user-images.githubusercontent.com/44064496/86608597-f275cd80-bfd4-11ea-8292-cf695a42d04b.png" width = "200" height = "400"/> <img src = "https://user-images.githubusercontent.com/44064496/86608835-41236780-bfd5-11ea-8b61-f7fd60e73dff.png" width = "200" height = "400"/>
 <br><br>
 
-<img src = "https://user-images.githubusercontent.com/44064496/86609258-eb9b8a80-bfd5-11ea-8542-2c207483006c.png" width = "200" height = "400"/><img src = "https://user-images.githubusercontent.com/44064496/86609248-e8a09a00-bfd5-11ea-8e3d-0e3f954f031b.png" width = "200" height = "400"/>
+<img src = "https://user-images.githubusercontent.com/44064496/86609258-eb9b8a80-bfd5-11ea-8542-2c207483006c.png" width = "200" height = "400"/> <img src = "https://user-images.githubusercontent.com/44064496/86609248-e8a09a00-bfd5-11ea-8e3d-0e3f954f031b.png" width = "200" height = "400"/>
